@@ -1,6 +1,8 @@
 ### Hi there, I'm Ting-Wei👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ting-wei-wang&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ting-wei-wang&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ting-wei-wang&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 **ting-wei-wang/ting-wei-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
